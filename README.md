@@ -1,2 +1,2 @@
-# Tsuga-Web-Browser
-A work in progress web browser with only one person with no knowledge of advanced coding working on it...  Yeah I need help
+Tsuga Web Browser is a closed source web browser with only one person working on it.
+Any and all suggestions are welcome!
